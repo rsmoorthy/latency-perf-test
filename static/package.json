@@ -1,0 +1,16 @@
+{
+  "name": "http-latency-perf-test",
+  "version": "1.0.0",
+  "description": "http latency performance testing",
+  "author": "https://github.com/rsmoorthy",
+  "license": "MIT",
+  "main": "app.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/rsmoorthy/latency-perf-test"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "body-parser": "^1.14.1"
+  }
+}

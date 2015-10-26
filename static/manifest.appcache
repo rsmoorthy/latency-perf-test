@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+#ver1
+
+CACHE:
+
+/static/latency.js
+
+NETWORK:
+*

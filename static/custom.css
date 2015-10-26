@@ -1,0 +1,24 @@
+.navbar {
+	background-color: #F0F8FF;
+	margin-bottom: 0;
+}
+.jumbotron {
+	background: url(/static/jumbotran.png) no-repeat center center;
+	background-color: #F0F8FF;
+	height: 240px;
+	border-bottom: 5px;
+	border-bottom-color: #55acee;
+	margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+	color: blue;
+}
+
+.hr-top-divider {
+	height: 5px;
+	color: #55acee;
+	background-color: #55acee;
+	margin-top: 0;
+	margin-bottom: 0;
+}
